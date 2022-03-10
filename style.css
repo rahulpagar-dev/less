@@ -1,0 +1,12 @@
+.child {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.parent {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
